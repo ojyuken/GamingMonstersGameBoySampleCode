@@ -50,6 +50,18 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# gbdk
+*.rel
+*.ihx
+*.gb
+*.asm
+*.lk
 *.lst
+*.noi
 *.sym
+*.map
 *.o
+
+# developer
+/.vscode/settings.json
