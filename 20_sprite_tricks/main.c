@@ -1,8 +1,8 @@
 #include <gb/gb.h>
 #include <stdio.h>
-#include "ExampleSprite.c"
-#include "BackgroundData.c"
-#include "BackgroundMap.c"
+#include "ExampleSprite.h"
+#include "BackgroundData.h"
+#include "BackgroundMap.h"
 
 void performantdelay(UINT8 numloops){
     UINT8 i;

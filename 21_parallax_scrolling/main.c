@@ -1,6 +1,6 @@
 #include <gb/gb.h>
-#include "parallax_background_data.c"
-#include "parallax_background_map.c"
+#include "parallax_background_data.h"
+#include "parallax_background_map.h"
 UINT8 backgroundoffset1x;
 UINT8 backgroundoffset2x;
 UINT8 backgroundoffset3x;

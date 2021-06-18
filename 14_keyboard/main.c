@@ -1,8 +1,8 @@
 #include <gb/gb.h>
-#include "keyboarddata.c"
-#include "sprites.c"
-#include "keyboardmap.c"
-#include "cursor.c"
+#include "keyboarddata.h"
+#include "sprites.h"
+#include "keyboardmap.h"
+#include "cursor.h"
 
 unsigned char playername[18];
 struct Cursor cursor;

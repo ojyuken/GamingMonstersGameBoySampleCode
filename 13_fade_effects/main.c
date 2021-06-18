@@ -1,9 +1,9 @@
 #include <gb/gb.h>
 #include <stdio.h>
-#include "mario_data.c"
-#include "mario_map.c"
-#include "MazeSprites.c"
-#include "MazeMap.c"
+#include "mario_data.h"
+#include "mario_map.h"
+#include "MazeSprites.h"
+#include "MazeMap.h"
 UINT8 i;
 
 void performantdelay(UINT8 numloops){
