@@ -1,7 +1,7 @@
 #include <gb/gb.h>
 #include <stdio.h>
-#include "mario_data.c"
-#include "mario_map.c"
+#include "mario_data.h"
+#include "mario_map.h"
 
 void main(){
     set_bkg_data(0, 114, mario_data);

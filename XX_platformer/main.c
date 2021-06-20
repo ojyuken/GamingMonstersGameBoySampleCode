@@ -1,9 +1,9 @@
 #include <gb/gb.h>
 #include <stdio.h>
-#include "GameCharacter.c"
-#include "level01map.c"
-#include "levelsprites.c"
-#include "man.c"
+#include "GameCharacter.h"
+#include "level01map.h"
+#include "levelsprites.h"
+#include "man.h"
 
 GameCharacter player;
 UINT8 gravity = 2;

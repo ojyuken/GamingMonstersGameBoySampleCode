@@ -1,9 +1,9 @@
 #include <gb/gb.h>
-#include "keyboarddata.c"
-#include "keyboardmap.c"
-#include "sprites.c"
-#include "cursor.c"
-#include "welcomemap.c"
+#include "keyboarddata.h"
+#include "keyboardmap.h"
+#include "sprites.h"
+#include "cursor.h"
+#include "welcomemap.h"
 
 extern UINT8 playername[18];
 struct Cursor cursor;

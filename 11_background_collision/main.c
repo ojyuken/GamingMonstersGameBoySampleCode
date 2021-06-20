@@ -1,8 +1,8 @@
 #include <gb/gb.h>
 #include <stdio.h>
-#include "MazeSprites.c"
-#include "MazeMap.c"
-#include "Snail.c"
+#include "MazeSprites.h"
+#include "MazeMap.h"
+#include "Snail.h"
 
 const char blankmap[1] = {0x00};
 UINT8 playerlocation[2];

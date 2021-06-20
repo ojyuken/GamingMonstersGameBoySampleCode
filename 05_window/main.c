@@ -1,7 +1,7 @@
 #include <gb/gb.h>
-#include "simplebackground.c"
-#include "simplebackgroundmap.c"
-#include "windowmap.c"
+#include "simplebackground.h"
+#include "simplebackgroundmap.h"
+#include "windowmap.h"
 #include <gb/font.h>
 
 void interruptLCD(){
